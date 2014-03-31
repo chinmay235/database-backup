@@ -3,7 +3,7 @@ database-backup
 
 This code helps to backup your database and tables by the user end.
 
-backup_tables('localhost','user','pass','databasename');
+`backup_tables('localhost','user','pass','databasename');`
 
 If you want to download a single table name please add a extra parameter on backup_tables() function.
 
